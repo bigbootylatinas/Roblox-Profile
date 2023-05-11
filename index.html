@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<title>Roblox Profile!</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" type="image/png" href="images/favicon.png">
+		<link rel="stylesheet" href="css/light.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2RLWN5JXRL');
+function _evt_push(type, category, label){
+  gtag('event', type, {
+    'event_category' : category,
+    'event_label' : label
+  });
+}
+
+	
+</script>
+	</head>
+	<body>
+		<h3>How to use:</h3>
+		<h5>SVG address</h5>
+		<code>https://pbb.bio/UserID</code>
+    <h5>Markdown</h5>
+		<code>![:name](https://pbb.bio/UserID)</code>
+		<h5>Img tag</h5>
+		<code><img src="https://cdn.discordapp.com/attachments/450446056686223361/1106350706832703508/image.png" alt=":name" /></code>
+		<h3><img src="https://pbb.bio/1" alt="pbb">
+		</h3>
+		<i>Data can accessed by anyone, please<span style="color: #ff4500;">
+				DO NOT</span>
+			enter personal information</i>
+		<h3>Credits</h3>
+		<ul>
+			<li>
+				<a href="https://repl.it/" target="_blank" rel="nofollow">repl.it</a>
+			</li>
+			<li>
+				<a href="https://moe-counter.glitch.me/" target="_blank" title="moe">moe-counter</a>
+			</li>
+      <li>
+				<a href="https://github.com/LumieOwO" target="_blank" title="mommy">Lumie</a>
+			</li>
+		</ul>
+    
+		<h3>Tool</h3>
+		<div class="tool">
+			<code>https://pbb.bio/</code>
+			<input id="name" type="text" placeholder="UserID" style="display: inline-block; width: 80px; height: 1.4em; line-height: 1.4em; margin: 0 4px; vertical-align: middle;">
+			<select id="theme" style="display: inline-block; height: 1.6em; line-height: 1.6em; font-size: 14px; margin: 0 4px; padding: 0 4px; vertical-align: middle;">
+				<option value="asoul"></option>
+				
+			</select>
+			<button id="get" style="margin: 10px 0;" onclick="_evt_push(" click",="" "normal",="" "get_counter")"="">Get</button>
+			<img id="result" style="display: block;">
+			<script>var btn = document.getElementById('get'),
+    img = document.getElementById('result')
+
+btn.addEventListener('click', function() {
+  var name = document.getElementById('name'),
+      themeEl = document.getElementById('theme')
+  var text = name.value ? name.value.trim() : ''
+  var theme = themeEl.value || 'moebooru'
+  if(!text) {
+    alert('Please input counter name.')
+    return
+  }
+
+  img.src = 'https://pbb.bio/' + text
+})
+
+			</script>
+		</div>
+<h3>Right-Click (Copy Image)</h3>
+
+	</body>
+</html>
