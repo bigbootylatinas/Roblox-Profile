@@ -1,6 +1,6 @@
 # PBB.bio
 
-- here [pbb.bio/api](pbb.bio/api)
+- here [pbb.bio/api](https://pbb.bio/api)
 
 ## Demo
 
@@ -8,7 +8,7 @@
 
 #### Run on PBB.bio
 
-- Open the url [pbb.bio/api](pbb.bio/api)
+- Open the url [pbb.bio/api](https://pbb.bio/api)
 ## Credits
 
 *   [replit](https://replit.com/)
