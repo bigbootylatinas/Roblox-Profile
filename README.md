@@ -1,2 +1,1 @@
-	<h3>How to use:</h3>
-	
+<img src="https://pbb.bio/1" alt="pbb">
