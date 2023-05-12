@@ -1,1 +1,2 @@
 <img src="https://pbb.bio/1" alt="pbb">
+[![Welcome](https://i.imgur.com/hAr807k.png)]()[![Discord Presence](https://pbb.bio/1)](https://discord.gg/mewhub)[![Twitch](https://i.imgur.com/MWBvLAs.png)](https://twitch.tv/j2shn)[![YouTube](https://i.imgur.com/r9usCwO.png)](https://www.youtube.com/channel/UCFovORxhtayDW5rmcINy8qQ)[![Twitter](https://i.imgur.com/I7BvC5P.png)](https://twitter.com/unicornpusheen_)[![Github](https://i.imgur.com/I3qhCkL.png)](https://github.com/bigbootylatinas)
