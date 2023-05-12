@@ -12,6 +12,6 @@
 ## Credits
 
 *   [replit](https://replit.com/)
-*   [replit](https://moe-counter.glitch.me/)
-*   [replit](https://github.com/LumieOwO) 
+*   [moe-counter](https://moe-counter.glitch.me/)
+*   [Lumie](https://github.com/LumieOwO) 
 
