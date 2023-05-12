@@ -1,6 +1,6 @@
 # PBB.bio
 
-![PBB.bio](https://pbb.bio/api)
+![https://pbb.bio/api](https://pbb.bio/api)
 
 ## Demo
 [https://pbb.bio/1](https://pbb.bio/1)
