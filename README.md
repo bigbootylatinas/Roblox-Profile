@@ -4,7 +4,9 @@
 
 ## Demo
 
-https://pbb.bio/1
+
+<a href="https://pbb.bio/api"><img src="https://pbb.bio/1"></img></a>
+
 
 #### Run on PBB.bio
 
