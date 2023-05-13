@@ -1,7 +1,3 @@
-# PBB.bio
-
-- here [pbb.bio/api](https://pbb.bio/api)
-
 ## Demo
 
 
